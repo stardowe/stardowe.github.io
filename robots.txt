@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stardowe.github.io/stardowe.stardowe
+Sitemap: https://stardowe.github.io/app/stardowe.stardowe
+Sitemap: https://stardowe.github.io/assets/stardowe.stardowe
+Sitemap: https://stardowe.github.io/css/stardowe.stardowe
+Sitemap: https://stardowe.github.io/includes/stardowe.stardowe
+Sitemap: https://stardowe.github.io/item/stardowe.stardowe
+Sitemap: https://stardowe.github.io/src/stardowe.stardowe
